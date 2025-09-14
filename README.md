@@ -25,7 +25,7 @@
 
 ### 🎮 Featured Project
 
-- [Flappy Bird Game](https://github.com/Aaryav-Mitra/Flappy-Bird-Official) – My own version of the classic Flappy Bird game, built with C++!
+- [Flappy Bird Game](https://github.com/Aaryav-Mitra/Flappy-Bird-Official) – My own version of the classic Flappy Bird game, built with JavaScript, HTML and CSS!
 
 ---
 
