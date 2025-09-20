@@ -7,7 +7,7 @@ let birdY = canvas.height / 2;
 let birdVelocity = 0;
 const gravity = 0.6;
 const flapPower = -10;
-const birdSize = 30;
+const birdSize = 50;
 
 let pipes = [];
 const pipeWidth = 60;
@@ -136,3 +136,4 @@ canvas.addEventListener("mousedown", flap);
 
 // Start game loop
 gameLoop();
+
